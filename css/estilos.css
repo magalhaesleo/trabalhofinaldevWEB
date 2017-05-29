@@ -1,0 +1,20 @@
+#site
+{
+    background-color: #C3D7E4;
+    /*height: 500px;*/
+}
+#menu
+{
+    background-color: red;
+    height: 35px;
+}
+#news
+{
+    background-color: #1b6d85;
+    height: 89px;
+}
+#notice
+{
+    background-color: #255625;
+    height: 89px;
+}
