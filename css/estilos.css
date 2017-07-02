@@ -9,9 +9,10 @@ body
     background-color: #51F44F;
     height: 90px;
 }
-#menu h3
+#menu a
 {
-    margin-left: 20px;
+    margin-left: 200px;
+    
 }
 #menu p
 {

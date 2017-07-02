@@ -24,9 +24,9 @@
                 </div>
                 <div class="col-md-6">
                     <form method="post" action="ValidaUser.php">
-                        <input type="text" name="login" placeholder="Username" required="required" style="align-content: center"/>
+                        <center><input type="text" name="login" placeholder="Usuário" required="required"/></center>
                         <br>
-                        <input type="password" name="pass" placeholder="Password" required="required" />
+                        <center><input type="password" name="pass" placeholder="Senha" required="required" /></center>
                         <br>
                         <button type="submit" class="btn btn-primary btn-block btn-large">Vamos lá!</button>
                     </form>
@@ -40,6 +40,7 @@
                     }
                     session_destroy();
                     ?>
+                    <a style="float: right" href="../index.php">Ir para o Site</a>
                 </div>
                 <div class="col-md-3">
 
